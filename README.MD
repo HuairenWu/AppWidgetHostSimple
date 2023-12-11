@@ -128,5 +128,5 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-[](bc418a6dfc283d719744cdc8c9e0d674_MD5.jpeg)
+![](bc418a6dfc283d719744cdc8c9e0d674_MD5.jpeg)
 `AppWidgetManager.ACTION_APPWIDGET_BIND`系统弹窗示例
